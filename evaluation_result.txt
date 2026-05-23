@@ -8,3 +8,19 @@ Project File: sample_poster.jpg
 3. Academic Depth (10 Marks): 5/10 -> High Lexical Density (70.0%). | Weak Technical Vocabulary.
 ----------------------------------- : -----------------------------------
 FINAL POSTER SCORE: 25 / 30 Marks
+
+
+
+
+[AI JUROR] Analyzing Exhibition Poster... Please wait...
+
+=== INNOVARSITY OFFICIAL EVALUATION REPORT ===
+Project File: poster3.jpg
+-----------------------------------: -----------------------------------
+1. Aesthetics & UI (10 Marks): 7/10 -> Excellent sharpness. | High contrast (Easy to read). | Poster looks cluttered or too empty.
+2. Structural Layout (10 Marks): 2/10 -> Poor Structure (Only 2 sections found).
+3. Academic Depth (10 Marks): 0/10 -> Insufficient text for academic evaluation.
+----------------------------------- : -----------------------------------
+FINAL POSTER SCORE: 9 / 30 Marks
+PS C:\Users\WML\Desktop\Poster_AI_Module>  
+
