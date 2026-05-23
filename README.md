@@ -9,6 +9,9 @@ This repository contains the **Poster Analysis Module** for **InnoVarsity** (an 
 
 Traditional academic posters are usually evaluated manually, which is prone to human bias and inconsistency. This Python-based AI module autonomously evaluates research posters (Panaflex) out of **30 Marks** based on three core dimensions: Visual Aesthetics, Structural Layout, and Academic Depth.
 
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/093f5928-ff67-4c42-a3d1-aad6748e4c51" />
+
+
 ## 📌 Output
 <img width="1846" height="505" alt="image" src="https://github.com/user-attachments/assets/e7e2a8e1-8192-4d58-b3bf-c80da32014c2" />
 
