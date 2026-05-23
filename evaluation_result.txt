@@ -1,0 +1,10 @@
+[AI JUROR] Analyzing Exhibition Poster... Please wait...
+
+=== INNOVARSITY OFFICIAL EVALUATION REPORT ===
+Project File: sample_poster.jpg
+-----------------------------------: -----------------------------------
+1. Aesthetics & UI (10 Marks): 10/10 -> Excellent sharpness. | High contrast (Easy to read). | Perfect UI/UX balance (Good whitespace).
+2. Structural Layout (10 Marks): 10/10 -> Excellent Structure (10 distinct sections detected).
+3. Academic Depth (10 Marks): 5/10 -> High Lexical Density (70.0%). | Weak Technical Vocabulary.
+----------------------------------- : -----------------------------------
+FINAL POSTER SCORE: 25 / 30 Marks
